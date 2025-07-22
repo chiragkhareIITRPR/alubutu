@@ -1,4 +1,4 @@
-export/////// const Home = () => {
+export const Home = () => {
   return <div class="Homebody" >
 <div class="homemainmajor">
 <div class="herobannerhome">
